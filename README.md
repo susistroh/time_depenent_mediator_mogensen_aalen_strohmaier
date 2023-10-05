@@ -26,7 +26,7 @@ lt and rt are the start and stop times of the relevant observation intervals
 "trans_prot" – transformed prothrombin value as described in the main text
 
 code_04102023.R
-As described in Section 7 we used the csl data to illustrate the estimation procedure in Section 6. The R file code_04102023.R includes all relevant functions and function calls.
+As described in Section 7 we used the csl data to illustrate the estimation procedure in Section 6. The R file code_04102023.R includes all relevant functions and function calls to obtain the direct, indirect and total effect when considering the current prothrombin value as mediator
 
 Required packages: 
 library(survival)
