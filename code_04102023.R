@@ -1,4 +1,4 @@
-load("~/Documents/Documents/DPA_NEW_2/csl_CP.Rda")
+load("~/yourpath/csl_CP.Rda")
 
 library(survival)
 library(timereg)
